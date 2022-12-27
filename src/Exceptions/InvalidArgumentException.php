@@ -1,10 +1,10 @@
 <?php
 
-namespace Yy\Gdweather\Exceptions;
+namespace Fireskyxyz\Gdweather\Exceptions;
 
 /**
  * Class InvalidArgumentException
- * @package Yy\Gdweather\Exceptions
+ * @package Fireskyxyz\Gdweather\Exceptions
  */
 class InvalidArgumentException extends Exception
 {

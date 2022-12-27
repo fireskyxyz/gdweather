@@ -1,10 +1,10 @@
 <?php
 
-namespace Yy\Gdweather;
+namespace Fireskyxyz\Gdweather;
 
 /**
  * Class ServiceProvider
- * @package Yy\Gdweather
+ * @package Fireskyxyz\Gdweather
  */
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {

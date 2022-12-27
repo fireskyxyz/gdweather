@@ -1,14 +1,14 @@
 <?php
 
-namespace Yy\Gdweather;
+namespace Fireskyxyz\Gdweather;
 
 use GuzzleHttp\Client;
-use Yy\Gdweather\Exceptions\HttpException;
-use Yy\Gdweather\Exceptions\InvalidArgumentException;
+use Fireskyxyz\Gdweather\Exceptions\HttpException;
+use Fireskyxyz\Gdweather\Exceptions\InvalidArgumentException;
 
 /**
  * Class Weather
- * @package Yy\Gdweather
+ * @package Fireskyxyz\Gdweather
  */
 class Weather
 {

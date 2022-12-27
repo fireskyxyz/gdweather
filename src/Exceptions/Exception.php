@@ -1,10 +1,10 @@
 <?php
 
-namespace Yy\Gdweather\Exceptions;
+namespace Fireskyxyz\Gdweather\Exceptions;
 
 /**
  * Class Exception
- * @package Yy\Gdweather\Exceptions
+ * @package Fireskyxyz\Gdweather\Exceptions
  */
 class Exception extends \Exception
 {

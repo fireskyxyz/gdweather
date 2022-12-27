@@ -1,19 +1,19 @@
 <?php
 
-namespace Yy\Gdweather\Tests;
+namespace Fireskyxyz\Gdweather\Tests;
 
 use GuzzleHttp\Client;
-use Yy\Gdweather\Weather;
+use Fireskyxyz\Gdweather\Weather;
 use Mockery\Matcher\AnyArgs;
 use GuzzleHttp\Psr7\Response;
 use PHPUnit\Framework\TestCase;
 use GuzzleHttp\ClientInterface;
-use Yy\Gdweather\Exceptions\HttpException;
-use Yy\Gdweather\Exceptions\InvalidArgumentException;
+use Fireskyxyz\Gdweather\Exceptions\HttpException;
+use Fireskyxyz\Gdweather\Exceptions\InvalidArgumentException;
 
 /**
  * Class WeatherTest
- * @package Yy\Gdweather\Tests
+ * @package Fireskyxyz\Gdweather\Tests
  */
 class WeatherTest extends TestCase
 {
